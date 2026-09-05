@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# KeyGraph 🎯
 
 
 ## Basic Details
@@ -14,34 +14,31 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+KeyGraph turns your typing into a light show. Answer 7 fun personal questions while an on screen QWERTY keyboard lights up green with every keystroke, and your answers get drawn live into a GitHub contributions-style heatmap that scrolls like a ticker.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Nobody has ever needed their typing to look like a GitHub contribution graph. There is no shortage of graphs, no crisis of underlit keyboards, and no demand anywhere for this. We built it anyway
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Every key you press lights up on a fake keyboard on screen, and every letter you type gets rendered pixel by pixel into a glowing green heatmap grid, like your GitHub commits are being written in real time by your keyboard smashing. At the end, you get a confetti celebration and a mosaic of everything you typed, because closure matters even for useless things
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: HTML, CSS, JavaScript
+- Frameworks: None — pure vanilla JS
+- Libraries: None
+-Tools: VS Code, GitHub Pages (deployment) 
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
 
 # Run
-[commands]
+Open index.html directly in a browser
 
 ### Project Documentation
 For Software:
@@ -88,9 +85,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Krishna Priya M: Sole developer — designed and built the entire concept, UI, keyboard to grid interaction logic and deployment
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
