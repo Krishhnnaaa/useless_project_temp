@@ -1,1 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QandA Typing Visualizer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<div id="wpm-badge">0 WPM</div>
+<div id="progress-bar-wrap">
+  <div id="progress-track"><div id="progress-fill"></div></div>
+  <div id="progress-label">0 / 7 answered</div>
+</div>
+<div id="qa-section">
+  <div id="question-counter">Question 1 of 7</div>
+  <div id="question-text"></div>
+  <input id="answer-input" type="text" autocomplete="off" spellcheck="false" placeholder="Type your answer…" />
+  <br>
+  <button id="next-btn">Next ?</button>
+</div>
+
+<div id="keyboard-section">
+  <div id="keyboard"></div>
+</div>
+
+<div id="grid-section">
+  <div id="month-labels"></div>
+  <canvas id="grid-canvas"></canvas>
+  <div class="grid-legend">
+    <span class="legend-label">Less</span>
+    <div class="legend-swatch" style="background:#161b22;border:1px solid #30363d;"></div>
+    <div class="legend-swatch" style="background:#0e4429;"></div>
+    <div class="legend-swatch" style="background:#006d32;"></div>
+    <div class="legend-swatch" style="background:#26a641;"></div>
+    <div class="legend-swatch" style="background:#39d353;"></div>
+    <span class="legend-label">More</span>
+  </div>
+</div>
+
+<div id="wrap-section">
+  <div id="wrap-title">That's a Wrap ??</div>
+  <div id="wrap-subtitle">Here's your story, pixel by pixel.</div>
+  <div id="wrap-grid-section">
+    <div id="wrap-month-labels"></div>
+    <canvas id="wrap-canvas"></canvas>
+    <div class="grid-legend">
+      <span class="legend-label">Less</span>
+      <div class="legend-swatch" style="background:#161b22;border:1px solid #30363d;"></div>
+      <div class="legend-swatch" style="background:#0e4429;"></div>
+      <div class="legend-swatch" style="background:#006d32;"></div>
+      <div class="legend-swatch" style="background:#26a641;"></div>
+      <div class="legend-swatch" style="background:#39d353;"></div>
+      <span class="legend-label">More</span>
+    </div>
+  </div>
+  <div id="wrap-answers"></div>
+  <button id="restart-btn">Start Over ?</button>
+  <button id="copy-btn" style="margin-top:12px;padding:10px 28px;background:#fff;color:#111;font-weight:700;font-size:0.95rem;border:2px solid #ddd;border-radius:8px;cursor:pointer;letter-spacing:1px;transition:background 0.2s;">?? Copy Answers</button>
+</div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
