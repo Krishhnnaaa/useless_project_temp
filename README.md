@@ -34,8 +34,8 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Krishhnnaaa/useless_project_temp.git
+cd useless_project_temp
 
 # Run
 Open index.html directly in a browser
