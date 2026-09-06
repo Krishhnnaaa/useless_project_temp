@@ -26,7 +26,7 @@ Every key you press lights up on a fake keyboard on screen, and every letter you
 ### Technologies/Components Used
 For Software:
 - Languages: HTML, CSS, JavaScript
-- Frameworks: None — pure vanilla JS
+- Frameworks: none pure vanilla JS
 - Libraries: None
 -Tools: VS Code, GitHub Pages (deployment) 
 
@@ -43,46 +43,26 @@ Open index.html directly in a browser
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+<img width="388" height="306" alt="AdobeExpressPhotos_b2454682362347e29411f77bdd26f3a1_CopyEdited" src="https://github.com/user-attachments/assets/a7a2a23c-71bc-4a29-9865-76f6cbd66d8c" />
+*displayed → user types an answer → keystroke lights the matching key on the virtual keyboard while the same keystroke renders as a pixel into the GitHub-style grid → Enter/Next repeats this for all 7 questions → final wrap screen with confetti, mosaic, and answer cards.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+<img width="1003" height="550" alt="WhatsApp Image 2026-09-06 at 04 09 24" src="https://github.com/user-attachments/assets/24eb6400-2475-4b28-85cd-ad81c7b9c5f3" />
+*Shows a question being typed with the on-screen QWERTY keyboard lighting up green per keystroke.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]<img width="1366" height="768" alt="Screenshot 2026-09-06 050539" src="https://github.com/user-attachments/assets/b575d1fb-5a77-4f9a-9c5a-eb99fba7ce96" />
+*Shows the typed answer rendered live into the green contribution-style heatmap grid.*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Workflow] <img width="1366" height="768" alt="Screenshot 2026-09-06 041320" src="https://github.com/user-attachments/assets/278256bd-038f-4c63-9775-705e943418e4" />
+*Shows the confetti burst, the final mosaic of all answers, and the answer cards*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://videotourl.com/videos/1788650949462-dafad95c-c45f-47bd-9e94-c4149ed51f1f.mp4
+*Answering a question while the keyboard lights up, the grid rendering the typed text live, the WPM badge updating, and the final wrap screen with confetti.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Krishna Priya M: Sole developer — designed and built the entire concept, UI, keyboard to grid interaction logic and deployment
