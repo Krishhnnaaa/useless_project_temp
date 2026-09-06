@@ -44,18 +44,19 @@ Open index.html directly in a browser
 For Software:
 
 # Screenshots 
-<img width="388" height="306" alt="AdobeExpressPhotos_b2454682362347e29411f77bdd26f3a1_CopyEdited" src="https://github.com/user-attachments/assets/a7a2a23c-71bc-4a29-9865-76f6cbd66d8c" />
+<img width="1003" height="550" alt="WhatsApp Image 2026-09-06 at 04 09 24" src="https://github.com/user-attachments/assets/d7996662-3a8b-4984-9f93-e11858bd8a8f" />
 *displayed → user types an answer → keystroke lights the matching key on the virtual keyboard while the same keystroke renders as a pixel into the GitHub-style grid → Enter/Next repeats this for all 7 questions → final wrap screen with confetti, mosaic, and answer cards.*
 
 ![Screenshot2]
-<img width="1003" height="550" alt="WhatsApp Image 2026-09-06 at 04 09 24" src="https://github.com/user-attachments/assets/24eb6400-2475-4b28-85cd-ad81c7b9c5f3" />
+<img width="1366" height="768" alt="Screenshot 2026-09-06 050539" src="https://github.com/user-attachments/assets/902685c6-64cb-44aa-b8fa-0ffed56f537b" />
+
 *Shows a question being typed with the on-screen QWERTY keyboard lighting up green per keystroke.*
 
-![Screenshot3]<img width="1366" height="768" alt="Screenshot 2026-09-06 050539" src="https://github.com/user-attachments/assets/b575d1fb-5a77-4f9a-9c5a-eb99fba7ce96" />
+![Screenshot3] <img width="1366" height="768" alt="Screenshot 2026-09-06 050539" src="https://github.com/user-attachments/assets/4e0781da-ed1b-4789-9c43-6f1e842ebcb9" />
 *Shows the typed answer rendered live into the green contribution-style heatmap grid.*
 
 # Diagrams
-![Workflow] <img width="1366" height="768" alt="Screenshot 2026-09-06 041320" src="https://github.com/user-attachments/assets/278256bd-038f-4c63-9775-705e943418e4" />
+![Workflow] <img width="388" height="306" alt="Screenshot 2026-09-06 052255" src="https://github.com/user-attachments/assets/a9a38eed-520e-4c8a-b80d-3d9230716f48" />
 *Shows the confetti burst, the final mosaic of all answers, and the answer cards*
 
 ### Project Demo
